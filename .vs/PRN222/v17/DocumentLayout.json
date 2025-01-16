@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306E208D-E1C9-48E0-88C7-36D9FD6C315B}|DemoTask\\DemoTask.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\prn222\\demotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306E208D-E1C9-48E0-88C7-36D9FD6C315B}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C0C42-77A0-4891-B51C-BE5366E5E8ED}|UDPClientApp\\UDPClientApp.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\prn222\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C0C42-77A0-4891-B51C-BE5366E5E8ED}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD57BADB-81BB-4077-879D-8ABA84A02626}|UDPServerApp\\UDPServerApp.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\prn222\\udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD57BADB-81BB-4077-879D-8ABA84A02626}|UDPServerApp\\UDPServerApp.csproj|solutionrelative:udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\DemoTask\\Program.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\DemoTask\\Program.cs",
+              "RelativeToolTip": "DemoTask\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:34:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "UDPClientApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:15:34.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\UDPServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\UDPServerApp\\Program.cs",
+              "RelativeToolTip": "UDPServerApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:07:41.547Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
