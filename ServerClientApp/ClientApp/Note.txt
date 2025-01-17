@@ -1,0 +1,12 @@
+ConnectServer: kết nối tới một server qua giao thức TCP và gửi/nhận dữ liệu
+TcpClient client = new TcpClient(server, port); : Tạo một kết nối TCP tới địa chỉ IP server và cổng port
+Byte[] data = System.Text.Encoding.ASCII.GetBytes($"{message}"); : mã hóa ASCII
+client.GetStream(): Lấy luồng dữ liệu (stream) từ kết nối TCP
+client.Close(); : Đóng kết nối TCP
+-------------
+ProcessMessage: xử lý giao tiếp giữa server và một client cụ thể, chạy trên một luồng riêng cho mỗi client.
+ExcuteServer: khởi động server và lắng nghe kết nối từ các client
+	IPAddress localAddr = IPAddress.Parse(host);: Chuyển chuỗi host (địa chỉ IP) thành đối tượng IPAddress.
+	server = new TcpListener(localAddr, port);:
+Tạo một đối tượng TcpListener để lắng nghe các kết nối đến địa chỉ host và cổng port.
+	server.Start();: Bắt đầu lắng nghe kết nối từ các client.
