@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\lab\\prn222_lab\\lab1_fetchdatahttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|solutionrelative:lab1_fetchdatahttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\lab\\prn222_lab\\lab1_fetchdatahttpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|solutionrelative:lab1_fetchdatahttpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab1_FetchDataHttpClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml",
+              "RelativeToolTip": "Lab1_FetchDataHttpClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-04T18:30:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:30:07.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
