@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ServerApp\\ServerApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\Lab\\PRN222_Lab\\ServerApp\\ServerApp.csproj",
       "projectName": "ServerApp",
-      "projectPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ServerApp\\ServerApp.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\Lab\\PRN222_Lab\\ServerApp\\ServerApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ServerApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\PRN222\\Lab\\PRN222_Lab\\ServerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

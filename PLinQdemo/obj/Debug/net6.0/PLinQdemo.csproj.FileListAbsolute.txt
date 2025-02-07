@@ -1,0 +1,15 @@
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.AssemblyInfo.cs
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.sourcelink.json
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\bin\Debug\net6.0\PLinQdemo.exe
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\bin\Debug\net6.0\PLinQdemo.deps.json
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\bin\Debug\net6.0\PLinQdemo.runtimeconfig.json
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\bin\Debug\net6.0\PLinQdemo.dll
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\bin\Debug\net6.0\PLinQdemo.pdb
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.dll
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\refint\PLinQdemo.dll
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.pdb
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\PLinQdemo.genruntimeconfig.cache
+C:\Users\user\Documents\01. FPT\08. TermNo_8\3.PRN222\PRN222\PLinQdemo\obj\Debug\net6.0\ref\PLinQdemo.dll

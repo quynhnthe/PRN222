@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2E6549E-67EA-45BA-A4D5-EA779AC7A558}|ServerApp\\ServerApp.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\lab\\prn222_lab\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E6549E-67EA-45BA-A4D5-EA779AC7A558}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA13E53E-4F32-4853-991B-8E2590DC71DF}|ClientApp\\ClientApp.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\lab\\prn222_lab\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA13E53E-4F32-4853-991B-8E2590DC71DF}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|c:\\users\\user\\documents\\01. fpt\\08. termno_8\\3.prn222\\lab\\prn222_lab\\lab1_fetchdatahttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A865329-6DBE-4B9D-99B3-4F8CF7A71E65}|Lab1_FetchDataHttpClient\\Lab1_FetchDataHttpClient.csproj|solutionrelative:lab1_fetchdatahttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:04:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:03:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Lab1_FetchDataHttpClient\\MainWindow.xaml",
@@ -42,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\01. FPT\\08. TermNo_8\\3.PRN222\\Lab\\PRN222_Lab\\Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
               "RelativeToolTip": "Lab1_FetchDataHttpClient\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T18:30:07.814Z",
               "EditorCaption": ""
